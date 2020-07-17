@@ -2,7 +2,7 @@ Hello   "Ankur" Good morning
 
 As I dont have hands on with Terraform I created AWS EC2 manully. I am very much interested to work for DevOps project, 
 
-requesting you to give an oppartunity to learn more in this technology.
+requesting you to give an oppartunity to grow with hands on experience. 
 
 Thanks,
 A.Sheshu.
